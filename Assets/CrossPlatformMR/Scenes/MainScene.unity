@@ -3127,11 +3127,19 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
+      propertyPath: gameMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
       propertyPath: roomName
       value: CrossPlatformSpatial
       objectReference: {fileID: 0}
     - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
       propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
+      propertyPath: connectionCriterias
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5246069744944926154, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
