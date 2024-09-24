@@ -141,10 +141,7 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1.1
   preloadedAssets:
-  - {fileID: 11400000, guid: c3e5649b7514c4ea387bd89037a310ef, type: 2}
-  - {fileID: 6851658404083073880, guid: f1dd9a22d1a7ac84cb9a7fcc447f419a, type: 2}
-  - {fileID: 11400000, guid: af7503391ebef4b4988d4548b4be04f4, type: 2}
-  - {fileID: -395531439024431045, guid: 883a5de6dbd9c424e910060a414a4a8d, type: 2}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -974,6 +971,6 @@ PlayerSettings:
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
-  platformRequiresReadableAssets: 1
+  platformRequiresReadableAssets: 0
   virtualTexturingSupportEnabled: 0
   insecureHttpOption: 0

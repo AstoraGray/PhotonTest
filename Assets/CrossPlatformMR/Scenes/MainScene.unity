@@ -3127,12 +3127,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
+      propertyPath: gameMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
       propertyPath: roomName
       value: CrossPlatformSpatial
       objectReference: {fileID: 0}
     - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4940143807093771657, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
+      propertyPath: playerCount
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5246069744944926154, guid: 657baf6953c4fc745a88a1fc684e56cb, type: 3}
       propertyPath: m_Name
@@ -3234,7 +3242,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: selectionMode
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: forcedKindName
@@ -3246,7 +3254,7 @@ PrefabInstance:
       objectReference: {fileID: 4606485557636413001}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.size
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[1].name
@@ -3258,7 +3266,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[3].name
-      value: AVPUnboundedSpace
+      value: PC
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[4].name
@@ -3278,7 +3286,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[3].targetPlatform
-      value: 50
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[4].targetPlatform
@@ -3322,7 +3330,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[3].specificGameObjects.Array.size
-      value: 7
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[4].specificGameObjects.Array.size
@@ -3419,7 +3427,7 @@ PrefabInstance:
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[3].specificGameObjects.Array.data[0]
       value: 
-      objectReference: {fileID: 793760997}
+      objectReference: {fileID: 1739460788}
     - target: {fileID: 4176810565044632642, guid: 9087caef7ef61a841b65065e39fd96bd, type: 3}
       propertyPath: rigKindDescriptions.Array.data[3].specificGameObjects.Array.data[1]
       value: 
